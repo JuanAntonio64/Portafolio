@@ -1,4 +1,4 @@
-import Banner from './components/Banner/Banner.jsx';
+import Banner from './components/Banner/banner.jsx';
 import Projects from './components/Projects/projects.jsx';
 import Footer from './components/Footer/Footer.jsx';
 import About from './components/About/About.jsx';
