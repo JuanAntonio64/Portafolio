@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './projectModal.css';
+import './ProjectModal.css';
 
 function ProjectModal({ children, onClose }) {
   const [closing, setClosing] = useState(false);
