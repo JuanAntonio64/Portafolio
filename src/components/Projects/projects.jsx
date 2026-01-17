@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import ProjectCard from './projectCard';
 
-import ProjectOneModal from './projectOneModal.jsx';
+import ProjectOneModal from './ProjectOneModal.jsx';
 import ProjectTwoModal from './ProjectTwoModal.jsx';
-import ProjectThreeModal from './projectThreeModal.jsx';
+import ProjectThreeModal from './ProjectThreeModal.jsx';
 
 import './projects.css';
 
