@@ -1,5 +1,5 @@
 // components/Projects/ProjectCard.jsx
-import './ProjectCard.css';
+import './projectCard.css';
 
 function ProjectCard({ title, description, image, onClick  }) {
   return (

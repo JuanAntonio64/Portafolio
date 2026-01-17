@@ -1,5 +1,5 @@
 // components/About/About.jsx
-import './About.css';
+import './about.css';
 
 function About() {
   return (

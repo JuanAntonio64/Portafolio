@@ -1,4 +1,4 @@
-import ProjectModalBase from './ProjectModal';
+import ProjectModalBase from './ProjectModal.jsx';
 
 function ProjectOneModal({ onClose }) {
   return (
