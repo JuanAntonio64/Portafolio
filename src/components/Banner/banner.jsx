@@ -1,4 +1,4 @@
-import Header from '../Header/Header';
+import Header from '../Header/header.jsx';
 import './banner.css';
 
 function Banner() {
