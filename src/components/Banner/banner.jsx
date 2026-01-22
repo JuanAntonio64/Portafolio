@@ -15,9 +15,9 @@ function Banner() {
           Construyo interfaces modernas y funcionales con React.
         </p>
 
-        <button className="banner__button">
+        <a className="banner__button" href="#about">
           Contáctame
-        </button>
+        </a>
       </div>
     </section>
   );
